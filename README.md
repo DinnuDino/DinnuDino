@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Donthireddy DINESH REDDY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **A Minecraft Bot Project**
+- 🔭 I’m currently working on **A Minecraft Server**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
