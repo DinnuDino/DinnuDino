@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Donthireddy DINESH REDDY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on A Minecraft Server **A Minecraft Server**
+
+- 👯 I’m looking to collaborate on **Cloud Native Projects**
+
+- 🤝 I’m looking for help with **DevOps**
+
+- 👨‍💻 All of my projects are available at [v](v)
+
+- 💬 Ask me about **DevOps**
+
 - 📫 How to reach me **dinesh06022011@gmail.com , https://discord.gg/9macPyv5eP**
 
 <h3 align="left">Connect with me:</h3>
