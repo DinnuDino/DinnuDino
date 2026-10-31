@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **dinesh06022011@gmail.com**
+- 📫 How to reach me **dinesh06022011@gmail.com** , https://discord.gg/9macPyv5eP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
